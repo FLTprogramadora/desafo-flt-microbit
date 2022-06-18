@@ -1,0 +1,26 @@
+{
+    "name": "DESAFÍO FLT MICROBIT",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "COMU RADIOS EJEMPLO 3": "github:fltprogramadora/comu-radios-ejemplo-3#33c64579569514dc3aefc0b6ddf6dc22d5a9efbd"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.6",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
